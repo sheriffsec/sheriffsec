@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Invisible+by+design.+Effective+by+nature.;sheriffsec+%C2%B7+fsociety-pk;Security+%C2%B7+Infrastructure+%C2%B7+Anonymity;Expect+us." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com? font=Share+Tech+Mono&size=15&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Invisible+by+design.+Effective+by+nature.;sheriffsec+%C2%B7+fsociety-pk;Security+%C2%B7+Infrastructure+%C2%B7+Anonymity;Expect+us." alt="Typing SVG" />
 
 </div>
 
@@ -65,7 +65,7 @@ vulnerability analysis, and AI-powered tooling.
 **Personal**
 
 [![Discord](https://img.shields.io/badge/Discord-thephantomdelux-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/thephantomdelux)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sheriffsec-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheriffsec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sheriffsec-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thehusnainfiaz)
 
 **Organization**
 
