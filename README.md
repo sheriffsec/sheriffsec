@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com? font=Share+Tech+Mono&size=15&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Invisible+by+design.+Effective+by+nature.;sheriffsec+%C2%B7+fsociety-pk;Security+%C2%B7+Infrastructure+%C2%B7+Anonymity;Expect+us." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Invisible+by+design.+Effective+by+nature.;sheriffsec+%C2%B7+fsociety-pk;Security+%C2%B7+Infrastructure+%C2%B7+Anonymity;Expect+us." alt="Typing SVG" />
 
 </div>
 
