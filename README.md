@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Watch the video](thumbnail.mp4)](thumbnail.mp4)
+[![Watch the demo](https://img.shields.io/badge/▶️%20Watch%20Demo-FF6B6B?style=for-the-badge)](https://github.com/sheriffsec/sheriffsec/releases/download/v1/Budget-Friendly.Clean.Girl.Makeup.Looks.for.This.Year.-.Pin-1045961082206676524.mp4)
 
 </div>
 
