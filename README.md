@@ -10,18 +10,6 @@
 
 ---
 
-## Featured Video
-
-<div align="center">
-
-[![Watch on YouTube](https://img.youtube.com/vi/Xi2snVu3xoo/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xi2snVu3xoo)
-
-**[▶️ Watch Full Video on YouTube](https://www.youtube.com/watch?v=Xi2snVu3xoo)**
-
-</div>
-
----
-
 ## Tech Stack
 
 ### Languages
