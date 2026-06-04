@@ -4,7 +4,7 @@
 
 ### Security Research • Red Team • AI Tooling
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=Security+Researcher;Red+Team+Specialist;AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=Security+Researcher;Red+Team+Specialist;AI+Enthu[...]
 
 </div>
 
@@ -70,9 +70,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| Security Framework | Security automation framework | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| Red Team Toolkit | Red team toolkit | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| AI Security Tools | AI security tools | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| Security Framework | Security automation framework | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-[...]
+| Red Team Toolkit | Red team toolkit | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?styl[...]
+| AI Security Tools | AI security tools | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScrip[...]
 
 ---
 
