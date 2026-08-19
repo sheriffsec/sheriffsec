@@ -1,88 +1,66 @@
 <div align="center">
 
-# Hey, I'm **sheriffsec**
+```
+           ░██                            ░██    ░████     ░████ 
+           ░██                                  ░██       ░██    
+ ░███████  ░████████   ░███████  ░██░████ ░██░████████ ░████████ 
+░██        ░██    ░██ ░██    ░██ ░███     ░██   ░██       ░██    
+ ░███████  ░██    ░██ ░█████████ ░██      ░██   ░██       ░██    
+       ░██ ░██    ░██ ░██        ░██      ░██   ░██       ░██    
+ ░███████  ░██    ░██  ░███████  ░██      ░██   ░██       ░██    
+```
 
-### Security Research • Red Team • AI Tooling
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=Security+Researcher;Red+Team+Specialist;AI+Enthusiast;DevSecOps+Engineer">
-
-</div>
-
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Platforms & OS
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### Security & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-EC1C24?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge)
-
----
-
-## About Me
-
-<div align="left">
-
-**I'm a security professional passionate about:**
-
-- **Security Research** - Identifying vulnerabilities and threats
-- **Red Team Operations** - Simulating real-world attacks
-- **AI & Automation** - Building intelligent security tools
-- **DevSecOps** - Integrating security into the development lifecycle
-- **Knowledge Sharing** - Contributing to the security community
+### 𝗢𝗳𝗳𝗲𝗻𝘀𝗶𝘃𝗲 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 𝗖𝗧𝗙 𝗣𝗹𝗮𝘆𝗲𝗿 | 𝗙𝗼𝗿𝗲𝘃𝗲𝗿 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 
 </div>
 
----
+<br>
 
-## Featured Projects
+### 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| Security Framework | Security automation framework | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| Red Team Toolkit | Red team toolkit | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| AI Security Tools | AI security tools | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+Hola amigos! 👋 I'm **Sheriff** — just a curious mind wandering around the world of cyber security.
 
----
+I'm into ethical hacking, offensive security, and poking at web apps until they tell me their secrets 🕵️. Still very much a beginner, but a dedicated one — learning something new (and probably breaking something) every single day.
 
-## Latest Content
+<br>
 
-**Check out my latest security research and tutorials on my channels!**
-
----
-
-## Connect With Me
+### 𝗧𝗲𝗰𝗵 𝗔𝗿𝘀𝗲𝗻𝗮𝗹
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=sheriffsec)](https://discord.com/users/sheriffsec)
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Nmap-1a1a1a?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
----
+
+### 𝗣𝗶𝗻𝗴 𝗠𝗲
 
 <div align="center">
 
-### If you find my work interesting, consider giving my repositories a star!
+<img src="https://img.shields.io/badge/Discord-sheriffsec-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<a href="mailto:sheriff.offsec@gmail.com"><img src="https://img.shields.io/badge/Gmail-sheriff.offsec%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-**Made with care by sheriffsec**
+</div>
+
+<br>
+
+### 𝗟𝗲𝗮𝘃𝗲 𝗠𝗲 𝗮 𝗠𝗲𝘀𝘀𝗮𝗴𝗲
+
+<div align="center">
+
+Got something to say? Drop me a message below 👇 — I read every single one.
+
+<a href="https://github.com/sheriffsec/sheriffsec/issues/new?title=%F0%9F%91%8B%20Hey%20Sheriff%21&body=Leave%20your%20message%20here...">
+  <img src="https://img.shields.io/badge/💬_Leave_a_Message-2ea44f?style=for-the-badge" alt="Leave a message"/>
+</a>
+
+<sub>Every message opens as a little thread right here on GitHub — pull up a chair 🤠</sub>
 
 </div>
